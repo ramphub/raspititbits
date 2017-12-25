@@ -14,3 +14,4 @@ sudo aptitude install mosquitto
 
 say n , n and Y 
 
+Same thing with the mosquitto-clients
